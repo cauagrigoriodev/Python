@@ -1,5 +1,5 @@
 # Execicio Python 
-import math
+
 
 nota1 = int(input("Digite uma nota: "))
 nota2 = int(input("Digite outra nota: "))
